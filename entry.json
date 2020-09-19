@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "Main App",
+    "path": "/assets/plugins/app.js",
+    "deps": [
+      "shared"
+    ]
+  },
+  "shared": {
+    "name": "Shared",
+    "path": "/assets/plugins/shared.js"
+  }
+}
